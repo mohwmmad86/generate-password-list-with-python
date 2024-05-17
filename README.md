@@ -3,7 +3,7 @@ i'm learning python<br>ilike python
 
 
 # create password list with python
-Enter the number of how many you want password list
+Enter the number of how many you want password list<br>
 if you want add or delete character edit Variable in line 8
 
 ---
